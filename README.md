@@ -26,9 +26,18 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+https://imgur.com/uxjGaw8
+<blockquote class="imgur-embed-pub" lang="en" data-id="uxjGaw8" data-context="false" ><a href="//imgur.com/uxjGaw8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <img src="https://imgur.com/uxjGaw8" width=250><br>
 
+
+
+### App on real device GIF
+https://imgur.com/gallery/CmewEDI
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/CmewEDI"  ><a href="//imgur.com/a/CmewEDI">Flixster on iPhone 12</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<img src="https://imgur.com/gallery/CmewEDI" width=250><br>
 
 
 ### Notes
