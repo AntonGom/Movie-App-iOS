@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A23E6A63-3F93-4942-A994-916B6BDDDE94"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4C06E91-EE04-4DEF-9CF0-74CA5EB87C6B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tipster/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MovieDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B4C06E91-EE04-4DEF-9CF0-74CA5EB87C6B - ffb9a0d62ed8ebe2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tipster.MovieDetailsViewController"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antoniogomez/Desktop/codepath/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "B4C06E91-EE04-4DEF-9CF0-74CA5EB87C6B - c48e2dc3b9d24beb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tipster.MovieDetailsViewController"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antoniogomez/Desktop/codepath/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  uuid = "B4C06E91-EE04-4DEF-9CF0-74CA5EB87C6B - 1c28b1e7394086d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tipster.MovieDetailsViewController&gt;"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antoniogomez/Desktop/codepath/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "B4C06E91-EE04-4DEF-9CF0-74CA5EB87C6B - b5d25298fb560130"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tipster.MovieDetailsViewController&gt;"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antoniogomez/Desktop/codepath/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "B4C06E91-EE04-4DEF-9CF0-74CA5EB87C6B - f5dda74dfe1de408"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tipster.MovieDetailsViewController.__deallocating_deinit"
+                  moduleName = "Tipster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antoniogomez/Desktop/codepath/Tipster/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
