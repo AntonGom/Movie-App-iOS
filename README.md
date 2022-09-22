@@ -30,6 +30,7 @@ please click here if the gif does not load: https://imgur.com/a/O1go9sc
 
 ### Notes
 Describe any challenges encountered while building the app.
+The simulator would not load
 
 ---
 
